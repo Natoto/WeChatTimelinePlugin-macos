@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MMTimeLineMgr requestTimeLineDataAfterItemID:]:MMTimeLineMgr.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MMStatusCell mouseUp:]:MMStatusCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mediaRealView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MMTimeLineMgr OnResponseCGI:sessionId:cgiWrap:]:MMTimeLineMgr.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cgiWrap">
+            </PersistentString>
+            <PersistentString
+               value = "response.session">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MMTimeLineViewController setupContactDetail:]:MMTimeLineViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[NSObject(ObjectMap) dictionaryWithPropertiesOfObject:]:NSObject+ObjectMap.m">
+      </ContextState>
+      <ContextState
+         contextName = "__49-[MMTimeLineMgr OnResponseCGI:sessionId:cgiWrap:]_block_invoke:MMTimeLineMgr.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.jsonlist">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NSViewController(WeChatPlugin) cb_setViewControllers:]:WeChatPlugin.m">
+      </ContextState>
+      <ContextState
+         contextName = "setClientLatestId:SnsTimeLineRequest2.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

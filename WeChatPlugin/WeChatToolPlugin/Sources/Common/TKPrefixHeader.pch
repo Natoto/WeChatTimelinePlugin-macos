@@ -1,0 +1,17 @@
+//
+//  TKPrefixHeader.pch
+//  WeChatPlugin
+//
+//  Created by nato on 2017/8/20.
+//  Copyright © 2017年 github:natototo. All rights reserved.
+//
+
+#ifndef TKPrefixHeader_pch
+#define TKPrefixHeader_pch
+
+#import "Color.h"
+#import "NSView+Action.h"
+#import "NSButton+Action.h"
+#import "NSTextField+Action.h"
+
+#endif /* TKPrefixHeader_pch */
