@@ -1,0 +1,1 @@
+# WeChatTimelinePlugin-macos
