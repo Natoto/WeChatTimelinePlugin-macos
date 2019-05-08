@@ -1,5 +1,0 @@
-message BlockDumpList
-{
-	repeated bytes BlockDump = 1;
-}
-
